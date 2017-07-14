@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">imgsel</string>
+
+    <string name="image_select_text_minNum">最少选择一张图片</string>
+    <string name="image_select_text_maxNum">最多选择%1$d张图片</string>
+    <string name="image_select_text_all_images">所有图片</string>
+    <string name="image_select_text_sd_disable">SD卡不可用</string>
+
+    <string name="image_select_text_image">图片</string>
+    <string name="image_select_text_takePhoto">拍照</string>
+    <string name="image_select_text_sheet">张</string>
+
+    <string name="image_select_text_confirm_format">%1$s(%2$d/%3$d)</string>
+    <string name="image_select_text_confirm">确定</string>
+
+    <string name="image_select_text_open_camera_failure">打开相机失败</string>
+
+    <string name="image_select_text_permission_storage_denied">请打开存储空间权限</string>
+
+    <string name="image_select_text_permission_camera_denied">请打开相机权限</string>
+
+    <string name="crop_saving">正在保存照片…</string>
+    <string name="crop_wait">请等待…</string>
+    <string name="crop_pick_error">无效的图片</string>
+    <string name="crop_done">完成</string>
+    <string name="crop_cancel" tools:ignore="ButtonCase">取消</string>
+
+</resources>

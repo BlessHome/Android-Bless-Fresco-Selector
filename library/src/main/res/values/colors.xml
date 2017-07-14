@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="image_select_bottom_bg">#AAAAAA</color>
+
+    <color name="crop_button_bar">#F3F3F3</color>
+    <color name="crop_button_text">#FFFFFF</color>
+    <color name="crop_selector_pressed">#1A000000</color>
+    <color name="crop_selector_focused">#77000000</color>
+</resources>
