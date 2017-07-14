@@ -7,9 +7,12 @@
         android:supportsRtl="true">
         <activity
             android:name=".ImageSelectActivity"
+            android:screenOrientation="portrait"
             android:theme="@style/ImageSelectTheme" />
 
-        <activity android:name=".crop.CropImageActivity"
+        <activity
+            android:name=".crop.CropImageActivity"
+            android:screenOrientation="portrait"
             android:theme="@style/ImageSelectTheme" />
 
         <meta-data
